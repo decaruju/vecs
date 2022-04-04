@@ -1,0 +1,3 @@
+module vecs
+
+interface Component {}

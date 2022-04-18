@@ -1,7 +1,7 @@
 module vecs
 
 pub struct Physics {
-	pub mut:
+pub mut:
 	x_speed f64
 	y_speed f64
 }
